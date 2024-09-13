@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.promo, .diferenciais, .precos {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.promo p, .diferenciais ul, .precos .plano {
+    margin: 10px 0;
+}
+
+.diferenciais ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.diferenciais li {
+    margin: 5px 0;
+}
+
+.precios .plano {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
